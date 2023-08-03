@@ -123,7 +123,7 @@ header.shadow{
 .home-img{
 	max-width: 90%;
 	height: 90%;
-	margin-left: 22px;
+	margin-left: 20px;
 	filter: brightness(115%) contrast(115%);
 }
 .home-img img{
